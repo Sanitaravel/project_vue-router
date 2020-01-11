@@ -25,12 +25,12 @@ const routes = [
     component: Contacts
   },
   {
-    path: '/',
+    path: '/on',
     name: 'on',
     component: On
   },
   {
-    path: '/off',
+    path: '/',
     name: 'off',
     component: Off
   }
